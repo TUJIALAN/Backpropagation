@@ -59,6 +59,7 @@ def show_results(x, y, pred_y,filename):
             plt.plot(x[i][0], x[i][1], 'bo')
 
     plt.savefig(filename)
+    plt.clf()
     
 #sigmoid
 def sigmoid(x):
