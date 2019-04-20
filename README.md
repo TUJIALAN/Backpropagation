@@ -1,4 +1,4 @@
-Experiment Report Lab 1——Backpropation
+Experiment Report Lab 1——Backpropagation
 ===
 
 ### 1. **Introduction**
